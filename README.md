@@ -1,5 +1,11 @@
 # ticket_movie2
 งานส่งอาจารย์ตอนปี2
+Link: https://movieticket-398f1.web.app/
+______________________
+เข้าแบบ admin
+e-mail: zhu@hot.com
+password: 111111
+______________________
 
 ## Project setup
 ```
